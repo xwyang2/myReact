@@ -1,0 +1,12 @@
+export const VIEW_HEADER='VIEW_HEADER';
+export const VIEW_NAV = 'VIEW_NAV';
+export const VIEW_FOOTER = 'VIEW_FOOTER';
+export const UPDATE_BEAUTY = 'UPDATE_BEAUTY';
+export const UPDATE_BUS = 'UPDATE_BUS';
+export const UPDATE_ELECTRIC = 'UPDATE_ELECTRIC';
+export const UPDATE_HOUSE = 'UPDATE_HOUSE';
+export const UPDATE_SPORT = 'UPDATE_SPORT';
+export const UPDATE_HOME = 'UPDATE_HOME';
+export const UPDATE_DETAIL = 'UPDATE_DETAIL';
+export const UPDATE_SLIDER = 'UPDATE_SLIDER';
+export const CHECK_USER = 'CHECK_USER';

@@ -1,0 +1,68 @@
+
+.home .carousel img{
+ width:100%;
+ height: 2.4rem;
+}
+.home .carousel {
+ width:100%;
+ height: 2.4rem;
+}
+.home .activity {
+  width: 100%;
+  height: 1.8rem;
+}
+.home .activity img {
+  width: 6.06rem;
+  height: 1.6rem;
+}
+.home .submeau {
+  padding: 0.15rem 0.4rem;
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: nowrap;
+}
+.home .submeau li {
+  width: 1rem;
+  text-align: center;
+}
+.home .submeau li span {
+  display: block;
+}
+.home .submeau li span img {
+  width: 0.75rem;
+  height: 0.75rem;
+  margin: 0 auto;
+}
+.home .submeau li span em {
+  display: block;
+  font-size: 0.22rem;
+  line-height: 0.42rem;
+  height: 0.42rem;
+}
+.home .newUser {
+  padding: 0 0.15rem;
+  background: #f24729;
+  padding-bottom: 0.4rem;
+}
+.home .newUser h3 {
+  text-align: center;
+
+  font-size: 0.3rem;
+  line-height: 0.72rem;
+
+  height: 0.72rem;
+}
+.home .newUser .ad {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: nowrap;
+  background: #fff;
+  padding: 0.15rem;
+  height: 1.7rem;
+  border-radius: 0.1rem;
+}
+.home .newUser .ad img {
+  width: 1.8rem;
+  height: 1.7rem;
+  border-radius: 0.1rem;
+}

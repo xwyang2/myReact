@@ -1,0 +1,120 @@
+.detail{width: 100%;position: relative; text-align: center;padding-bottom: 1rem;}
+.detail .carousel img{
+ width:100%;
+ height: 5.4rem;
+}
+.detail .carousel {
+ width:100%;
+ height: 5.4rem;
+}
+.detail button{
+    width:0.6rem;
+    height:0.6rem;
+    text-align: center;
+    border-radius: 50%;
+    border: none;
+    position: absolute;
+    top:0.2rem;
+    left:0.2rem;
+    opacity: 0.5;
+    font-size: 0.5rem;
+    line-height: 0.6rem;
+    font-weight: 900;
+    background: #000;
+    color: #fff;
+}
+.detail .details{
+    margin:0.2rem 0;
+    text-align: left;
+    padding: 0 0.2rem;
+
+    font-size: 0.3rem;
+    line-height: 0.6rem;
+    height: 1.2rem;
+    overflow: hidden;
+}
+.detail .des{
+    height: 0.4rem;
+    margin-top: 0.1rem;
+
+    font-size: 0.26rem;
+    line-height: 0.4rem;
+
+    padding: 0 0.15rem;
+    overflow: hidden;
+}
+.detail .price {
+   overflow: hidden;
+   padding: 0 0.15rem;
+}
+.detail .price i{
+    float: left;
+    height: 0.4rem;
+
+    font-size: 0.26rem;
+    line-height: 0.4rem;
+
+    color: #f00;
+    padding: 0 0.3rem;
+
+}
+.detail .price em{
+    float: right;
+    height: 0.4rem;
+    padding: 0 0.4rem;
+
+    font-size: 0.26rem;
+    line-height: 0.4rem;
+
+    color: #e26f50;
+    background: #ffe5e1;
+}
+.detail .bottom{
+    width:100%;
+    overflow: hidden;
+    position: fixed;
+    bottom: 0;
+    background: #fff;
+    z-index: 2;
+}
+.detail .bottom a{
+    float: left;
+}
+.detail .bottom span{
+    float: left;
+}
+.detail .bottom a.serve{
+    width:20%;
+
+}
+.detail .bottom a.serve img{
+    display: block;
+    width:0.4rem;
+    height:0.4rem;
+    margin: 0.1rem  auto;
+}
+.detail .bottom a.serve em{
+    display: block;
+
+    font-size: 0.26rem;
+    line-height: 0.4rem;
+
+}
+.detail .bottom span:nth-child(3){
+    width: 30%;
+    color: #fff;
+
+    font-size: 0.3rem;
+    line-height: 1rem;
+
+    background: #e26f50;
+}
+.detail .bottom span:nth-child(4){
+    width: 30%;
+    color: #fff;
+
+    font-size: 0.3rem;
+    line-height: 1rem;
+
+    background: #f00;
+}

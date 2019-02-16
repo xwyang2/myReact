@@ -1,0 +1,27 @@
+[{
+        "username": "lisi",
+        "password": "hello",
+        "name": "张三",
+        "remain": 1000,
+        "head_img": "https://gd4.alicdn.com/imgextra/i4/126330677/TB288LGmVXXXXa7XFXXXXXXXXXX_!!126330677.jpg_50x50.jpg"
+    },
+    {
+        "username": "amy_Tan",
+        "password": "amy123",
+        "name": "艾米丽",
+        "remain": 800,
+        "head_img": "https://gd3.alicdn.com/imgextra/i3/2846610185/TB2RzfTufuSBuNkHFqDXXXfhVXa_!!2846610185.jpg_50x50.jpg"
+    }, {
+        "username": "David",
+        "password": "happy",
+        "name": "王大锤",
+        "remain": 700,
+        "head_img": "https://img.alicdn.com/imgextra/https://img.alicdn.com/imgextra/i2/1809148893/O1CN01o3TxEl2FZ2hJucqel_!!1809148893.jpg_60x60q90.jpg"
+    }, {
+        "username": "dawei",
+        "password": "dawei",
+        "name": "孙大尾",
+        "remain": 0,
+        "head_img": ""
+    }
+]

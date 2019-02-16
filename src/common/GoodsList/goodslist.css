@@ -1,0 +1,57 @@
+.goodslist {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    background: #f7f7f7;
+}
+
+.goodslist li {
+    width: 49.5%;
+    margin-top: 0.1rem;
+    background: #fff;
+}
+
+.goodslist li a {
+    display: block;
+}
+
+.goodslist li img {
+    display: block;
+    height: 3.14rem;
+}
+
+.goodslist li p {
+    height: 0.26rem;
+    margin-top: 0.1rem;
+
+    font-size: 0.2rem;
+    line-height: 0.26rem;
+
+    padding: 0 0.12rem;
+}
+
+.goodslist li i {
+    display: block;
+    height: 0.3rem;
+
+    font-size: 0.26rem;
+    line-height: 0.36rem;
+
+    color: #f00;
+    padding: 0 0.12rem;
+}
+
+.goodslist li em {
+    display: block;
+    width: 0.9rem;
+    height: 0.3rem;
+    padding: 0 0.05rem;
+
+    font-size: 0.18rem;
+    line-height: 0.3rem;
+
+    color: #e26f50;
+    background: #ffe5e1;
+    margin-left: 0.12rem;
+    margin-bottom: 0.1rem;
+}
